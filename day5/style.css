@@ -3,6 +3,8 @@ body{
     background-color: #e5e0d8;
     color: #725c3a;
     font-family: 'SimKyungha', sans-serif;
+    height: 100vh;
+    overflow: hidden;
 }
 nav{
     display: flex;
@@ -10,6 +12,7 @@ nav{
     padding: 0px 20px;
     font-size: xx-large;
     align-items: center;
+    height: 10%;
 }
 nav a{
     text-decoration: none;
@@ -78,7 +81,7 @@ a:hover{
 }
 
 .work5{
-    height: 820px;
+    height: 90%;
     display: flex;
     justify-content: flex-end;
     align-items: flex-end;
